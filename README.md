@@ -1,11 +1,5 @@
 # Email-Spam-Detection-System
 
-## Project Pathners
-Adarsh Kumar------SRN: PES2UG20CS016
-Sreekar Govind----SRN: PES2UG20CS125
-Aryaman Yadav-----SRN: PES1UG20CS079
-
-
 These are the parts of our project: 
 
 ## 1st PART
